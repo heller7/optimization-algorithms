@@ -14,6 +14,12 @@ The TSP is a classic optimization problem where the goal is to find the shortest
   - NetworkX graph representation
 - **Location**: `/tsp`
 
+### Matching
+A matching is a subset of the edge set of a graph where each node is incident to at most one edge of the chosen subset. A classic optimization problem is to find a maximum matching, i.e. a subset with as many edges as possible (not to be confused with a maximal matching!).
+
+- **IP-Formulation**: Integer Programming implementation using Gurobi.
+- **Location**: `/matching`
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -38,12 +44,12 @@ The TSP is a classic optimization problem where the goal is to find the shortest
 python tsp/main.py
 ```
 
-## Planned Implementations
-
 ## 📋 Planned Implementations
 
+- [ ] Traveling Salesperson Problem (TSP)
 - [ ] Set Covering Problem
 - [ ] Maximum Flow Problem
+- [ ] Matchings
 - [ ] Vehicle Routing Problem (VRP)
 - [ ] Facility Location Problem
 - [ ] Knapsack Problem
