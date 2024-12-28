@@ -2,7 +2,6 @@ import gurobipy as gp
 from gurobipy import GRB
 import networkx as nx
 from typing import List, Tuple
-import numpy as np
 
 def solve_tsp(G: nx.Graph) -> Tuple[List[str], float]:
     """
