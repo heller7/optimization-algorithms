@@ -1,5 +1,5 @@
 from matching_gurobi import solve_matching
-from importer import import_matching_from_csv
+from matchings.importer import import_matching_from_csv
 
 file_path = "matchings/data/graph.csv"
 
