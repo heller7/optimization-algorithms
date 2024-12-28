@@ -46,10 +46,10 @@ python tsp/main.py
 
 ## 📋 Planned Implementations
 
-- [ ] Traveling Salesperson Problem (TSP)
+- [x] Traveling Salesperson Problem (TSP)
 - [ ] Set Covering Problem
 - [ ] Maximum Flow Problem
-- [ ] Matchings
+- [x] Matchings
 - [ ] Vehicle Routing Problem (VRP)
 - [ ] Facility Location Problem
 - [ ] Knapsack Problem
