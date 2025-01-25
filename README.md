@@ -33,7 +33,7 @@ A matching is a subset of the edge set of a graph where each node is incident to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/optimization-algorithms.git        
+   git clone https://github.com/heller7/optimization-algorithms.git        
    ```
 2. Install dependencies
 3. Run the script
